@@ -1,0 +1,1 @@
+[m + n for m in 'ABC' for n in '123’]
