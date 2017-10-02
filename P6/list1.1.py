@@ -1,0 +1,6 @@
+L=['Adam','Lisa','Bart','Paul']
+print L[0:3]
+print L[:3]
+print L[:]
+print L[0:3:2]
+print L[::2]
